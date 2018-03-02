@@ -1,0 +1,23 @@
+{
+	"ventana": {"dimensiones": {"ancho": 1200, "alto": 700}},
+	"vel_scroll": 10,
+	"log_lvl": "alto",
+	"escenario": {
+		"dimensiones": {"ancho": 4000, "alto": 720},
+		"capas": [{
+				"id": 1,
+				"index_z": 99,
+				"ruta_imagen":"Graficos/fondo 1.png"
+			},
+			{
+				"id": 2,
+				"index_z": 98,
+				"ruta_imagen":"Graficos/Level1Backgroud.png"
+			}
+		],
+		"entidades": [
+		],
+		"texturas" : [
+		]
+	}
+}
